@@ -11,5 +11,14 @@
 -	Ask me anything.
 -	Most important thing :heart: I enjoy what I do. :heart:
 
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanaditya)](https://github.com/arpanaditya/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanaditya)](https://github.com/arpanaditya/github-readme-stats)
+
+- These are some of my projects that I have worked on. 
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=BabyShop)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=Hack-NITP)
+
 ![github octocat](https://user-images.githubusercontent.com/75975428/105281152-7ee28900-5bd1-11eb-9165-851d9d5eb975.png)
 
