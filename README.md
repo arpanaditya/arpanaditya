@@ -17,7 +17,7 @@
 
 - These are some of my projects that I have worked on. 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=BabyShop)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=NEWLIFE)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=Hack-NITP)
 
 ![github octocat](https://user-images.githubusercontent.com/75975428/105281152-7ee28900-5bd1-11eb-9165-851d9d5eb975.png)
