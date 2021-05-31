@@ -6,7 +6,7 @@
 -	I’m learning java.
 -	How to reach me: :e-mail: aditaarpansahoo@gmail.com.
 -	Linkedin: https://www.linkedin.com/in/arpan-aditya/
--	Hackerrack: https://www.hackerrank.com/adityaarpansahoo
+-	Hackerrank: https://www.hackerrank.com/adityaarpansahoo
 -	I love exploring and learning new skills.
 -	Ask me anything.
 -	Most important thing :heart: I enjoy what I do. :heart:
