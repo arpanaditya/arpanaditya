@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/75975428/137167456-7c1bc069-6811-4b1a-95c3-2179028e626f.png" width="180">
 </p>
-<h2 align="center"> Hey, I am Aditya Arpan (He/Him)👋 </h2>
+<h2 align="center"> Hey, I am Aditya Arpan <a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
+</a> 👋</h2>
 <h3 align="center"> Hackathon and Community Enthusiast </h3>
 
 
@@ -16,15 +18,73 @@
 -	Most important thing :heart: I enjoy what I do. :heart:
 
 ---
+<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
+<h2 align="center">My Tech Stack 🧰</h2>
+<p align="center">
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
+</a>
+</p>
 
-### Want To Contact Me? 📱
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Arpan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-aditya/)](https://www.linkedin.com/in/arpan-aditya/)
-[![Instagram Badge](https://img.shields.io/badge/-adityaa__sahoo-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaa_sahoo/)](https://instagram.com/adityaa_sahoo)
+<h2 align="center">My Tools :gear: </h2>
+<p align="center">
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://github.com/arpanaditya">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-adityaa__sahoo-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaa_sahoo/)](https://twitter.com/adityaa_sahoo/)
-[![Gmail Badge](https://img.shields.io/badge/adityaarpansahoo@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaarpansahoo@gmail.com)](mailto:adityaarpansahoo@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Aditya_Arpan-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/adityaasahoo)](https://www.facebook.com/adityaasahoo/)
+---
+
+<h2 align="center">My Socials :handshake: </h2>
+<p align="center">
+<a href="mailto:adityaarpansahoo@gmail.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://instagram.com/adityaa_sahoo">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://linkedin.com/in/arpan-aditya">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://twitter.com/adityaa_sahoo">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://wa.me/918763012773">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
+</a>
+</p>
 
 ---
 
