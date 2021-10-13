@@ -20,7 +20,7 @@
 ### Want To Contact Me? 📱
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Arpan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-aditya/)](https://www.linkedin.com/in/arpan-aditya/)
-[![Instagram Badge](https://img.shields.io/badge/-adityaa__sahoo-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaa_sahoo/)](https://instagram.com/adityaa_sahoo)![profile-pic](https://user-images.githubusercontent.com/75975428/137166500-db2ba8ed-0344-47ae-a919-d19da5ffdd7c.png)
+[![Instagram Badge](https://img.shields.io/badge/-adityaa__sahoo-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaa_sahoo/)](https://instagram.com/adityaa_sahoo)
 
 [![Twitter Badge](https://img.shields.io/badge/-adityaa__sahoo-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaa_sahoo/)](https://twitter.com/adityaa_sahoo/)
 [![Gmail Badge](https://img.shields.io/badge/adityaarpansahoo@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaarpansahoo@gmail.com)](mailto:adityaarpansahoo@gmail.com)
