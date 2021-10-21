@@ -1,12 +1,8 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/75975428/137167456-7c1bc069-6811-4b1a-95c3-2179028e626f.png" width="180">
-</p>
-<h2 align="center"> Hey, I am Aditya Arpan <a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
-</a> 👋</h2>
-<h3 align="center"> Hackathon and Community Enthusiast </h3>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/>
+<p align="center"><img src="https://profile-counter.glitch.me/arpanaditya/count.svg"/></p>
 
-
+- Pronoun: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
+- Hackathon and Community Enthusiast
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Student Expert. :smile:
 
 
@@ -88,14 +84,17 @@
 
 ---
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanaditya)](https://github.com/arpanaditya/github-readme-stats)
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanaditya&theme=dracula&show_icons=true&layout=compact" alt="arpanaditya" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanaditya)](https://github.com/arpanaditya/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" />
 
-- These are some of my projects that I have worked on. 
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" />
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=NEWLIFE)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arpanaditya&repo=Hack-NITP)
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" /> 
+  
+<h2 align="center">My DevOctoCat :heart: </h2>  
+<p align="center"><img src="https://user-images.githubusercontent.com/75975428/105281152-7ee28900-5bd1-11eb-9165-851d9d5eb975.png" style="height: 500px; width: 500px;" alt ="arpanaditya" /> 
 
-![github octocat](https://user-images.githubusercontent.com/75975428/105281152-7ee28900-5bd1-11eb-9165-851d9d5eb975.png)
+<h3 align="center">Thank you so much for coming here :pray:</h3>
 
