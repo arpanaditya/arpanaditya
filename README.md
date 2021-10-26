@@ -86,16 +86,13 @@
 
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="700"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="700"/>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="700"/>
+<p align="right"><img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="700"/>
     
-<p align="center"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
+<p align="left"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" />
-  
-<h2 align="center">My DevOctoCat :heart: </h2>  
-<p align="center"><img src="https://user-images.githubusercontent.com/75975428/105281152-7ee28900-5bd1-11eb-9165-851d9d5eb975.png" style="height: 500px; width: 500px;" alt ="arpanaditya" /> 
+<p align="right"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" width="700"/></p>
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
 
