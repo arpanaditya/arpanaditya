@@ -94,7 +94,7 @@
 
 <p align="right"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" width="700"/></p>
 
-<p align="center"><img src= "https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.gif"/></a></p>
+![arpanaditya's snake gif](https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
 
