@@ -1,17 +1,16 @@
+<!-- markdownlint-disable-next-line -->
 <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/>
-<p align="center"><img src="https://profile-counter.glitch.me/arpanaditya/count.svg"/></p>
 
-- Pronoun: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
+- Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - Hackathon and Community Enthusiast
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Student Expert. :smile:
 
-
 - Interested in Web development. :grinning:
--	Currently learning JavaScript. :star_struck:
--	I’m learning java too. :muscle:
--	I love exploring and learning new skills as well as implement those in my projects.
--	I love taking parts in hackathons. :sunglasses:
--	Most important thing :heart: I enjoy what I do. :heart:
+- Currently learning JavaScript. :star_struck:
+- I’m learning java too. :muscle:
+- I love exploring and learning new skills as well as implement those in my projects.
+- I love taking parts in hackathons. :sunglasses:
+- Most important thing :heart: I enjoy what I do. :heart:
 
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
@@ -97,4 +96,3 @@
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700"/> </p>
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
-
