@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=arpanaditya&linkedin=arpan-aditya&twitter=adityaa_sahoo" href="https://linktr.ee/arpanaditya"/>
-
+<p align="center"><img src="https://profile-counter.glitch.me/arpanaditya/count.svg"/></p>
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - Hackathon and Community Enthusiast
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Student Expert. :smile:
