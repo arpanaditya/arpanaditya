@@ -47,9 +47,6 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/">
@@ -85,14 +82,14 @@
 
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="700"/>
+<p align="center"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
 
-<p align="right"><img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="700"/>
-    
-<p align="left"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="700" /></p>
 
-<p align="right"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" width="700"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="700" /></p>
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700"/> </p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=arpanaditya" alt ="arpanaditya" width="700" /></p>
+
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 
 <h3 align="center">Thank you so much for coming here :pray:</h3>
