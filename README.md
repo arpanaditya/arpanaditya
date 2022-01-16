@@ -61,20 +61,17 @@
 
 <h2 align="center">My Socials :handshake: </h2>
 <p align="center">
-<a href="mailto:adityaarpansahoo@gmail.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://instagram.com/adityaa_sahoo">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+<a href="https://twitter.com/adityaa_sahoo">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://linkedin.com/in/arpan-aditya">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://twitter.com/adityaa_sahoo">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<a href="https://instagram.com/adityaa_sahoo">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://wa.me/918763012773">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/whatsapp.svg" alt="WhatsApp" style="vertical-align:top; margin:4px">
+<a href="mailto:adityaarpansahoo@gmail.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
