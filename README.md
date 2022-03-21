@@ -6,7 +6,7 @@
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Student Expert. :smile:
 
 - Interested in Web development. :grinning:
-- Currently learning JavaScript. :star_struck:
+- Currently learning React. :star_struck:
 - I’m learning java too. :muscle:
 - I love exploring and learning new skills as well as implement those in my projects.
 - I love taking parts in hackathons. :sunglasses:
