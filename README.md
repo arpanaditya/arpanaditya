@@ -25,10 +25,13 @@
 <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://git-scm.com/">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>   
+<a href="https://reactjs.org/">
+<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
 </a>
-<a href="#">
+<a href="https://docs.oracle.com/en/java/">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg">
 </a>
 </p>
