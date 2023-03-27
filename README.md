@@ -82,7 +82,7 @@
 
 <h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
-<p align="center"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="600" /></p>
+<p align="center"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/@arpanaditya-github-skyline-2022.gif" alt="@arpanaditya Gitub Skyline 2022" width="600" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="400" />
