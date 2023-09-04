@@ -88,6 +88,4 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="400" />
 </p>
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
-
 <h3 align="center">Thank you so much for coming here :pray:</h3>
